@@ -15,7 +15,7 @@ This repository contains all materials for the PRACTICAL AI consulting business:
 
 The website is built with React + TypeScript + Vite.
 
-**Live site:** [Will be added after Netlify deployment]
+**Live site:** https://predeploy-0ee90a96-practicalai-bg3sg6vi.manus.space/
 
 ### Local Development
 ```bash
