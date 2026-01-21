@@ -1,0 +1,5 @@
+At Abonmarche Consultants (200+ employees, 11 offices), we implemented AI for **one workflow**: the civil engineering plan review process (30% / 60% / 90% / Final). Before AI, project managers and engineers routinely lost billable time to repetitive compliance checks, administrative review tasks, and back-and-forth markup cycles—work that is important, but highly standardizable.
+
+In a 90-day pilot-to-rollout, I built and deployed an AI-powered plan review assistant for **10 Civil PMs** across the firm’s offices. The impact was measurable in the metric professional services leadership cares about most: **billable hours recovered**. We consistently recovered **6–8 hours per project**, averaging **~$1,200 per project** in reclaimed billable capacity.
+
+At typical volume (~40 projects/month), that’s **$48,000/month** or **$576,000/year** in annualized benefit—from **one workflow**. This proof of concept demonstrates the PRACTICAL AI Framework works in a real multi-office environment and provides a blueprint to scale automation to dozens of other workflows (reports, document prep, compliance checking, client comms) for compounding ROI.

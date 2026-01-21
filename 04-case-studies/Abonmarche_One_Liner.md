@@ -1,0 +1,1 @@
+At Abonmarche’s 11 offices (200+ employees), I automated **one** civil engineering workflow—the 30/60/90/Final plan review process—recovering ~$576K/year in billable capacity for 10 PMs; that’s one workflow, with dozens more ready to scale.
